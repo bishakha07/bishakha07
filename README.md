@@ -1,6 +1,4 @@
 
-
-```html
 <!-- Header Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFFF&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%20%26%20ML%20Explorer%20%7C%20Creative%20Developer%20%7C%20Future%20AI%20Engineer%20✨&descAlign=50&descSize=18&descAlignY=55" />
@@ -273,16 +271,3 @@ Responsive bakery website project focused on frontend fundamentals.</p>
 <i>Made with 💖 by Bishakha Karmakar</i><br>
 <i>🌱 Exploring AI, ML, Web Development & Blockchain • Updated 2026</i>
 </p>
-```
-
-## Changes Made
-
-* Updated professional headline and introduction
-* Added AI Internship experience at Acmegrade
-* Updated certifications and technical focus
-* Added Blockchain/Web3 learning section
-* Added Featured Projects section
-* Updated tech stack with TypeScript & Ethereum
-* Removed the two GitHub stats images before the contribution graph
-* Improved professional branding and readability
-* Updated footer and learning philosophy
