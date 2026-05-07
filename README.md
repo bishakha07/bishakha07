@@ -1,95 +1,68 @@
-<!-- Header Banner -->
+<!-- HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFFF&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%20Learner%20%7C%20Creative%20Coder%20%7C%20Future%20AI%20Engineer%20✨&descAlign=50&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFFF&height=280&section=header&text=Welcome%20to%20My%20GitHub%20👩‍💻&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&desc=AI%20Learner%20|%20Creative%20Coder%20|%20Future%20AI%20Engineer%20✨&descAlign=50&descSize=18&descAlignY=58"/>
 </p>
 
-<!-- Introduction -->
-<h2 align="center">Welcome to Bishakha's Tech Portfolio</h2>
+<!-- INTRO -->
+<h1 align="center">🌸 Bishakha Karmakar 🌸</h1>
 
 <p align="center">
 🧚🏻‍♀ <i>In a world of logic and light, I script spells in Python and dance with data.</i><br>
-⚙ <i>Crafting code with a hint of stardust ✨ and debugging bugs like a tech ninja 🥷.</i><br>
+⚙ <i>Crafting code with creativity, AI, and a hint of stardust ✨</i><br>
 🌙 <i>Dreaming by night, coding by day — welcome to my pastel-coded universe 🌸</i>
 </p>
 
-<!-- Typing Animation -->
+<!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+Engineer+in+Progress+🤖;CSE+(AI+%26+ML)+Student+🌱;Python+%7C+Blockchain+%7C+UI%2FUX+Explorer;Building+Projects+Step+by+Step+💻;Welcome+to+my+learning+journey+🌌" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=FF69B4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+Engineer+in+Progress+🤖;Python+%7C+AI+%7C+Blockchain+Explorer;Building+Projects+Step+by+Step+💻"/>
 </p>
 
-<!-- Profile Metrics -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bishakha07&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/bishakha07?label=Followers&style=for-the-badge&color=ff69b4" />
-</p>
+---
 
+<!-- BADGES -->
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifications-30+-ff69b4?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=bishakha07&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/bishakha07?label=Followers&style=for-the-badge&color=ff69b4"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Hackathons-SIH%20%7C%20CodeFest-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Learning%20Journey-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Student-ffc0cb?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Projects-6+-ffb6c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Certifications-30+-ffc0cb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-4+-ffb6c1?style=for-the-badge"/>
 </p>
 
-<!-- Quick Facts -->
-<div align="center">
+---
 
 # 🎯 Quick Facts About Me
-
-<i>Some highlights from my learning and development journey</i>
-
-</div>
 
 <table align="center">
 <tr>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+<td align="center" width="33%" bgcolor="#fff0f5">
 
 ### 🤖 AI Projects
-
-AI Recommendation Systems
-
-<i>Building ML-based applications</i>
+Recommendation Systems  
+Machine Learning  
+Python Projects
 
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/blockchain-technology.png" width="55"/>
+<td align="center" width="33%" bgcolor="#fff0f5">
 
 ### ⛓ Web3 Explorer
-
-Ethereum DApps
-
-<i>Learning decentralized technologies</i>
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://img.icons8.com/color/96/source-code.png" width="55"/>
-
-### 💻 Programming
-
-C • Python • TypeScript
-
-<i>Growing through projects</i>
+Ethereum DApps  
+Smart Contracts  
+Blockchain Learning
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="33%" bgcolor="#fff0f5">
 
-<img src="https://img.icons8.com/color/96/medal2.png" width="55"/>
-
-### 🏆 Certifications
-
-30+ Certifications
-
-<i>AI • UX • Blockchain</i>
+### 📚 Learning Journey
+30+ Certifications  
+Hackathons  
+Continuous Learning
 
 </td>
 
@@ -98,52 +71,50 @@ C • Python • TypeScript
 
 ---
 
-<div align="center">
-
 # 👩‍💻 Professional Profile
-
-</div>
 
 <table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
-## 🎓 Education & Qualifications
+## 🎓 Education
 
 - Sister Nivedita University  
-- Computer Science & Engineering (AI & ML)  
-- Currently in 2nd Year  
-- Focused on AI, ML & Software Development  
+- CSE (AI & ML)  
+- Current CGPA:
+  - 1st Sem: 8.81
+  - 2nd Sem: 9.04
+  - 3rd Sem: 9.09
 
 ### 📜 Certifications
 
 - Google AI Essentials ✅  
 - Programming in C ✅  
 - Neo4j Certified Professional ✅  
-- Foundations of UX Design ✅  
-- Career Essentials in Generative AI ✅  
+- UX Design Foundations ✅  
+- Generative AI Essentials ✅  
 - Certified Mantle Builder ✅  
-- 30+ Certifications & Workshops ✅  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
-## 💼 Experience & Technical Journey
+## 💼 Experience
 
-- Artificial Intelligence Intern — Acmegrade  
+### Artificial Intelligence Intern — Acmegrade
+
 - Built AI-based applications  
 - Developed Movie Recommendation System  
 - Worked with Python & Streamlit  
-- Applied Machine Learning concepts  
+- Applied ML concepts practically  
 
-### 🚀 Technical Activities
+### 🚀 Interests
 
-- SIH Participant 🏆  
-- Open Source Learner 🌟  
-- Blockchain & Web3 Explorer ⛓  
-- AI & ML Enthusiast 🤖  
+- Artificial Intelligence  
+- Python Development  
+- UI/UX Design  
+- Blockchain & Web3  
 
 </td>
 
@@ -152,53 +123,56 @@ C • Python • TypeScript
 
 ---
 
-<!-- GitHub Graph -->
+# 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishakha07&bg_color=fff0f5&color=555&line=ff69b4&point=ff69b4&area=true&hide_border=true" width="95%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishakha07&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8bbd0&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakha07&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=f8bbd0"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=bishakha07&theme=transparent&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
 
-<!-- Trophies -->
+<!-- SNAKE -->
+# 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bishakha07&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
-
-<div align="center">
 
 # 🚀 Featured Projects
 
-<i>Projects that showcase my technical learning journey</i>
-
-</div>
-
 <table align="center">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
 ## 🎬 Movie Recommendation System
 
-Python • Streamlit • ML
+**Tech:** Python • Streamlit • ML
 
-AI-based recommendation system using content similarity techniques.
+AI recommendation system using content similarity techniques.
 
-🔗 Repository  
+🔗 Repo  
 https://github.com/bishakha07/movie-recommendation-system
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
 ## ⛓ Crowdhub DApp
 
-Ethereum • TypeScript • Web3
+**Tech:** Ethereum • TypeScript • Web3
 
-Blockchain-based crowdfunding platform with decentralized workflows.
+Blockchain-based crowdfunding DApp with decentralized workflows.
 
-🔗 Repository  
+🔗 Repo  
 https://github.com/bishakha07/Crowdhub
 
 </td>
@@ -207,169 +181,76 @@ https://github.com/bishakha07/Crowdhub
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
 ## 🍰 BakeCake Website
 
-HTML • CSS
+**Tech:** HTML • CSS
 
-Responsive bakery website focused on frontend fundamentals.
+Responsive bakery website project focused on frontend design.
 
-🔗 Repository  
+🔗 Repo  
 https://github.com/bishakha07/Bakecake
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f5">
 
-## 🎯 Guessing Game in C
+## 🎯 Guessing Game
 
-C Programming
+**Tech:** C Programming
 
-Simple number guessing console game with random number generation.
+Console-based number guessing game using logic building concepts.
 
-🔗 Repository  
+🔗 Repo  
 https://github.com/bishakha07/guessing_game
 
 </td>
 
 </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🧮 Calculator.c
-
-Basic calculator project using C.
-
-🔗 Repository  
-https://github.com/bishakha07/calculator.c
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠 My Tech Stack
-
-<i>Technologies and tools I'm learning and building with</i>
-
-</div>
-
-<table align="center">
-
-<tr>
-
-<td width="33%" align="center">
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://img.icons8.com/color/96/c-programming.png" width="60"/>
-<img src="https://img.icons8.com/color/96/python.png" width="60"/>
-<img src="https://img.icons8.com/color/96/typescript.png" width="60"/>
-</p>
-
-C • Python • TypeScript
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐 Web & Blockchain
-
-<p>
-<img src="https://img.icons8.com/color/96/html-5.png" width="60"/>
-<img src="https://img.icons8.com/color/96/css3.png" width="60"/>
-<img src="https://img.icons8.com/color/96/ethereum.png" width="60"/>
-</p>
-
-HTML • CSS • Ethereum
-
-</td>
-
-<td width="33%" align="center">
-
-## 🎨 Tools & Platforms
-
-<p>
-<img src="https://img.icons8.com/color/96/figma.png" width="60"/>
-<img src="https://img.icons8.com/color/96/canva.png" width="60"/>
-<img src="https://img.icons8.com/color/96/git.png" width="60"/>
-</p>
-
-Figma • Canva • GitHub
-
-</td>
-
-</tr>
 
 </table>
 
 ---
 
-<div align="center">
+# 🛠 Tech Stack
 
-# 🌟 Current Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,typescript,html,css,git,github,figma,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,typescript,html,css,git,github,figma,vscode"/>
 </p>
-
-</div>
 
 ---
 
-<div align="center">
-
-# 📚 Current Learning Focus
-
-</div>
+# 🌱 Currently Learning
 
 <table align="center">
 
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="33%" bgcolor="#fff0f5">
 
-## 🤖 AI & ML
-
+### 🤖 AI & ML
 Recommendation Systems  
 Machine Learning  
 Data Analysis  
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="33%" bgcolor="#fff0f5">
 
-## 🌐 Frontend Development
-
+### 🌐 Frontend
 Responsive Websites  
 UI Design  
 Web Fundamentals  
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="33%" bgcolor="#fff0f5">
 
-## ⛓ Blockchain
-
+### ⛓ Blockchain
 Ethereum  
 Smart Contracts  
-DApps  
-
-</td>
-
-<td width="25%" align="center">
-
-## 🚀 Open Source
-
-GitHub Projects  
-Portfolio Building  
-Community Learning  
+Web3  
 
 </td>
 
@@ -379,57 +260,30 @@ Community Learning
 
 ---
 
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bishakha07&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8bbd0"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakha07&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=f8bbd0"/>
-
-</div>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishakha07&theme=transparent&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
----
-
-<div align="center">
-
 # 🌟 Community & Activities
 
-<i>Learning beyond the classroom through events and communities</i>
-
-</div>
-
 <p align="center">
-🏆 SIH Participant • 🎯 CodeFest Participant • 🤝 SAP Inside Track Volunteer <br>
-📚 Coding Ninjas Workshops • 🌐 GDG Kolkata Events • 💡 Continuous Learner
+🏆 SIH Participant • 🎯 CodeFest Participant <br>
+🤝 SAP Inside Track Volunteer <br>
+📚 Coding Ninjas Workshops • 🌐 GDG Kolkata Events
 </p>
 
 ---
 
-<div align="center">
-
-# 🤝 Let's Connect & Collaborate
-
-<i>Always excited to connect with developers, learners, and innovators!</i>
-
-</div>
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/bishakha07">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bishakha-karmakar-301b25303">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bishakhakarmakar517@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -437,47 +291,34 @@ Community Learning
 <p align="center">
 
 <a href="https://x.com/Bishakha0426">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://hashnode.com/@bishakhakarmakar">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+<img src="https://img.shields.io/badge/Hashnode-ffb6c1?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 <a href="https://dev.to/bishakha_karmakar_130192e">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+<img src="https://img.shields.io/badge/DEV.to-ff69b4?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-# 💭 Coding Philosophy
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=ff69b4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22Every+expert+was+once+a+beginner%22;%22Code+is+poetry+written+in+logic%22;%22Learning+never+stops+in+technology%22;%22Build.+Learn.+Improve.+Repeat.%22" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<!-- Footer -->
+<!-- QUOTE -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff6b9d,100:c44569&height=120&section=footer&text=Keep%20Coding!%20🚀&fontSize=24&fontAlignY=75&animation=fadeIn&fontColor=FFFFFF" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&width=800&height=60&lines=Every+expert+was+once+a+beginner+🌸;Code+is+poetry+written+in+logic+✨;Build+.+Learn+.+Improve+.+Repeat+🚀"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ffb6c1,100:fce4ec&height=120&section=footer&text=Keep%20Coding!%20🚀&fontSize=24&fontAlignY=75&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 <p align="center">
-<i>Made with 💖 and dedication by Bishakha Karmakar</i><br>
-<i>🌱 Growing one commit at a time • Future AI Engineer</i>
+<i>Made with 💖 by Bishakha Karmakar</i><br>
+<i>🌱 Growing one commit at a time</i>
 </p>
