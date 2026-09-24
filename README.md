@@ -6,14 +6,14 @@
 <!-- Introduction -->
 <h2 align="center">Welcome to Bishakha's Tech Portfolio</h2>
 <p align="center">
-🧚🏻‍♀ <i>Building on a foundation in Computer Science while exploring AI, ML and emerging technologies.</i><br>
-⚙ <i>Turning classroom concepts into projects, experiments and practical learning.</i><br>
-🌙 <i>Learning step by step, building with curiosity, and growing one project at a time 🌸</i>
+🧚🏻‍♀ <i>In a world of logic and light, I explore AI, code and data one concept at a time.</i><br>
+⚙ <i>Building on my Computer Science foundation through projects, experiments and continuous learning.</i><br>
+🌙 <i>Learning by doing, growing through challenges, and building my own pastel-coded universe 🌸</i>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+%26+ML+Student+%7C+Creative+Coder;Building+my+foundation+in+Computer+Science+📚;Exploring+AI%2C+ML+%26+Emerging+Technologies+🤖;Learning+through+Projects%2C+Hackathons+%26+Communities+🌱;Growing+one+project+at+a+time+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+Learner+%7C+Creative+Coder;CSE+%7C+AI+%26+ML+Student+at+SNU+🌱;Building+Projects+Across+AI+%26+Emerging+Technologies;Exploring+Web3%2C+Cloud+%26+Data+Technologies;Learning+Step+by+Step%2C+One+Project+at+a+Time+💻" />
 </p>
 
 <!-- Profile Metrics -->
@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=bishakha07&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/bishakha07?label=Followers&style=for-the-badge&color=ff69b4" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifications-15%2B-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifications-15+-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hackathons-SIH%20%7C%20CodeFest-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Source-Learning%20Journey-ff69b4?style=for-the-badge" />
 </p>
@@ -29,7 +29,7 @@
 <!-- Fun Facts Section -->
 <div align="center">
 <h2>🎯 Quick Facts About Me</h2>
-<p><i>A few highlights from my academic and technical learning journey</i></p>
+<p><i>Some highlights from my academic and technical learning journey</i></p>
 </div>
 
 <table align="center" border="0">
@@ -37,20 +37,20 @@
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50" />
-<h4>🤖 AI & ML</h4>
-<p><strong>AI & ML Projects</strong><br><i>Academic learning & practical experimentation</i></p>
+<h4>🤖 AI Projects</h4>
+<p><strong>AI & ML Applications</strong><br><i>Academic learning and project-based exploration</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" width="50" />
 <h4>⛓ Web3 Explorer</h4>
-<p><strong>Ethereum • Injective • Bittensor</strong><br><i>Learning through hands-on exploration</i></p>
+<p><strong>Ethereum • Injective • Bittensor</strong><br><i>Learning decentralized technologies</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/source-code.png" width="50" />
 <h4>💻 Programming</h4>
-<p><strong>C • Python • Java • TypeScript</strong><br><i>Academic & project-based learning</i></p>
+<p><strong>C • Python • Java • TypeScript</strong><br><i>Academic and project-based learning</i></p>
 </td>
 
 <td width="25%" align="center">
@@ -83,10 +83,12 @@
 - Computer Science & Engineering (AI & ML)
 - Currently in 3rd Year • 5th Semester
 - CGPA: 8.82
+- Building a foundation in AI, ML & Software Development
 
 <br>
 
 - <strong>Core Computer Science Foundation</strong>
+- Discrete Mathematics
 - Programming & Data Structures
 - Algorithms & Problem Solving
 - Object-Oriented Programming
@@ -118,43 +120,35 @@
 - Worked with Python, Pandas, NumPy & Scikit-learn
 - Applied content-based filtering and cosine similarity
 - Built the application using Streamlit
+- Used AI-assisted development as part of the learning process
 
 <br>
 
 - <strong>SIH 2026 — Team Lead</strong>
 - Team: Future Forge
-- Worked on SIH Problem Statement 26188
-- AI-assisted document screening & identity verification
+- Problem Statement: SIH26188
+- Worked on AI-assisted document screening and identity verification
 - Contributed to research, frontend development and presentation
+- Learned team coordination, problem analysis and project pitching
 
 <br>
 
-- <strong>Technical Journey</strong>
-- AI & ML Project Development 🤖
-- Core Computer Science 📚
+- <strong>Technical Exploration</strong>
+- AI & Machine Learning 🤖
 - Web Development 🌐
-- Blockchain & Web3 Exploration ⛓
-- Cloud & Emerging Technology Learning ☁️
+- Blockchain & Web3 ⛓
+- Google Cloud ☁️
+- Bittensor & Injective Exploration 🚀
 
 </td>
 
 </tr>
 </table>
 
-<!-- Contribution Graph -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishakha07&bg_color=fff0f5&color=555&line=ff69b4&point=ff69b4&area=true&hide_border=true&radius=20" width="800" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bishakha07&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
 <!-- Featured Projects -->
 <div align="center">
 <h2>🚀 Featured Projects</h2>
-<p><i>Projects that showcase my technical learning and practical development journey</i></p>
+<p><i>Projects that showcase my technical learning journey</i></p>
 </div>
 
 <table align="center" border="0">
@@ -162,29 +156,23 @@
 
 <td width="33%" align="center">
 <h3>🎬 Movie Recommendation System</h3>
-<p>
-<strong>Python • Streamlit • ML</strong><br>
-Content-based movie recommendation system using feature similarity and cosine similarity.
-</p>
+<p><strong>Python • Streamlit • Machine Learning</strong><br>
+Content-based movie recommendation system using feature similarity and cosine similarity to recommend movies based on selected content.</p>
 <p><i>Developed during my AI internship with AI-assisted development and guidance.</i></p>
 </td>
 
 <td width="33%" align="center">
 <h3>⛓ Crowdhub DApp</h3>
-<p>
-<strong>Ethereum • TypeScript • Web3</strong><br>
-Blockchain-based crowdfunding application exploring decentralized application development.
-</p>
-<p><i>Project-based learning in Web3 with AI-assisted development and guidance.</i></p>
+<p><strong>Ethereum • TypeScript • Web3</strong><br>
+Blockchain-based crowdfunding application created to explore decentralized applications, smart contracts and Web3 concepts.</p>
+<p><i>Project-based learning with AI-assisted development and guidance.</i></p>
 </td>
 
 <td width="33%" align="center">
 <h3>🍰 BakeCake Website</h3>
-<p>
-<strong>HTML • CSS</strong><br>
-Bakery website created to practice webpage structure, styling and frontend fundamentals.
-</p>
-<p><i>Beginner-level frontend project developed as part of my learning journey.</i></p>
+<p><strong>HTML • CSS</strong><br>
+Bakery website created to practice webpage structure, layouts, styling and frontend development fundamentals.</p>
+<p><i>Beginner-level project developed during my frontend learning journey.</i></p>
 </td>
 
 </tr>
@@ -195,29 +183,23 @@ Bakery website created to practice webpage structure, styling and frontend funda
 
 <td width="33%" align="center">
 <h3>🛡️ VERIDIAN</h3>
-<p>
-<strong>AI • FastAPI • Next.js • PostgreSQL</strong><br>
-AI-assisted document screening and identity verification platform developed for SIH Problem Statement 26188.
-</p>
-<p><i>Hackathon project built while learning full-stack and AI-assisted development.</i></p>
+<p><strong>AI • FastAPI • Next.js • PostgreSQL</strong><br>
+AI-assisted document screening and identity verification platform developed for SIH Problem Statement 26188.</p>
+<p><i>Hackathon project involving research, frontend development and AI-assisted software development.</i></p>
 </td>
 
 <td width="33%" align="center">
 <h3>⛓ SkillChain</h3>
-<p>
-<strong>Next.js • TypeScript • Injective</strong><br>
-Learning project exploring blockchain applications and the Injective ecosystem.
-</p>
-<p><i>Developed during HackQuest with AI-assisted development and guidance.</i></p>
+<p><strong>Next.js • TypeScript • Injective</strong><br>
+Learning project exploring blockchain applications and the Injective ecosystem through HackQuest.</p>
+<p><i>Built as part of my Web3 learning journey with AI-assisted development and guidance.</i></p>
 </td>
 
 <td width="33%" align="center">
 <h3>💻 Project DevRush 2.0</h3>
-<p>
-<strong>Frontend • Web Development</strong><br>
-Collaborative project management web application developed as part of a team.
-</p>
-<p><i>Contributed as a Frontend Developer while learning collaborative development.</i></p>
+<p><strong>Frontend • Web Development</strong><br>
+Collaborative project management web application developed as part of a team.</p>
+<p><i>Contributed as a Frontend Developer while learning collaborative software development.</i></p>
 </td>
 
 </tr>
@@ -226,7 +208,7 @@ Collaborative project management web application developed as part of a team.
 <!-- Tech Stack -->
 <div align="center">
 <h2>🛠 My Tech Stack</h2>
-<p><i>Technologies I have studied, used in projects, or am currently exploring</i></p>
+<p><i>Technologies and tools I have studied, used in projects, or am currently exploring</i></p>
 </div>
 
 <table align="center" border="0">
@@ -244,9 +226,13 @@ Collaborative project management web application developed as part of a team.
 
 <p><strong>C • Python • Java • JavaScript • TypeScript</strong></p>
 
-<p><i>C & Java: academic foundation<br>
-Python & TypeScript: project-based exposure<br>
-JavaScript: currently improving</i></p>
+<p>
+<i>
+C & Java — academic foundation<br>
+Python — project experience, still improving<br>
+JavaScript & TypeScript — basic/project-based exposure
+</i>
+</p>
 
 </td>
 
@@ -262,9 +248,13 @@ JavaScript: currently improving</i></p>
 
 <p><strong>HTML • CSS • JavaScript • Next.js • Ethereum</strong></p>
 
-<p><i>HTML & CSS: basic practical experience<br>
-JavaScript & Next.js: learning/project exposure<br>
-Ethereum & Web3: exploratory learning</i></p>
+<p>
+<i>
+HTML & CSS — basic practical experience<br>
+JavaScript & Next.js — learning/project exposure<br>
+Ethereum & Web3 — exploratory learning
+</i>
+</p>
 
 </td>
 
@@ -278,9 +268,14 @@ Ethereum & Web3: exploratory learning</i></p>
 <img src="https://img.icons8.com/color/96/000000/git.png" width="60" />
 </p>
 
-<p><strong>Git • GitHub • VS Code • Figma • Canva</strong></p>
+<p><strong>Figma • Canva • Git • GitHub • VS Code</strong></p>
 
-<p><i>Used for projects, development, documentation and design.</i></p>
+<p>
+<i>
+Used for projects, documentation, UI design and development.<br>
+Continuously improving through practice.
+</i>
+</p>
 
 </td>
 
@@ -290,11 +285,17 @@ Ethereum & Web3: exploratory learning</i></p>
 <!-- Skills -->
 <div align="center">
 <h3>🌟 Current Skills</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,git,github,figma,vscode" />
 </p>
 
-<p><i>Continuously improving through coursework, projects, hackathons and hands-on learning.</i></p>
+<p>
+<i>
+My skill set is continuously developing through university coursework,
+projects, internships, hackathons and hands-on learning.
+</i>
+</p>
 </div>
 
 <!-- Learning Focus -->
@@ -310,8 +311,8 @@ Ethereum & Web3: exploratory learning</i></p>
 <h4>🤖 AI & ML</h4>
 
 <p>
-Machine Learning<br>
 Artificial Intelligence<br>
+Machine Learning<br>
 Recommendation Systems<br>
 Data Analysis<br>
 Generative AI
@@ -349,23 +350,22 @@ Injective<br>
 Bittensor
 </p>
 
-<p><i>Exploring through projects & HackQuest</i></p>
+<p><i>Learning through projects and HackQuest</i></p>
 
 </td>
 
 <td width="25%" align="center">
 
-<h4>🚀 Emerging Technologies</h4>
+<h4>🚀 Open Source</h4>
 
 <p>
-Cloud Computing<br>
-Data Science<br>
-Cybersecurity<br>
-Computer Vision<br>
-AI-Assisted Development
+GitHub Projects<br>
+Portfolio Building<br>
+AI-Assisted Development<br>
+Community Learning
 </p>
 
-<p><i>Currently exploring and building exposure</i></p>
+<p><i>Building practical experience step by step</i></p>
 
 </td>
 
@@ -375,7 +375,7 @@ AI-Assisted Development
 <!-- Community -->
 <div align="center">
 <h2>🌟 Community & Activities</h2>
-<p><i>Learning beyond the classroom through events, competitions and communities</i></p>
+<p><i>Learning beyond the classroom through events and communities</i></p>
 </div>
 
 <p align="center">
