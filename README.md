@@ -7,13 +7,13 @@
 <h2 align="center">Welcome to Bishakha's Tech Portfolio</h2>
 <p align="center">
 🧚🏻‍♀ <i>In a world of logic and light, I script spells in Python and dance with data.</i><br>
-⚙ <i>Crafting code with a hint of stardust ✨ and exploring technology step by step.</i><br>
+⚙ <i>Crafting code with a hint of stardust ✨ and debugging bugs like a tech ninja 🥷.</i><br>
 🌙 <i>Dreaming by night, coding by day — welcome to my pastel-coded universe 🌸</i>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+%26+ML+Learner+%7C+Creative+Coder;Learning+AI%2C+ML+%26+Software+Development+at+SNU+🌱;Exploring+Web3+%26+Emerging+Technologies+🔗;Building+Projects+with+AI-Assisted+Development+🤖;Learning+Step+by+Step%2C+One+Project+at+a+Time+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+Learner+%7C+Creative+Coder;Planting+seeds+of+code+at+SNU+🌱;Every+bug+is+a+learning+opportunity+🐛✨;Building+my+coding+foundation+step+by+step+💻;Welcome+to+my+learning+journey+🌌" />
 </p>
 
 <!-- Profile Metrics -->
@@ -37,25 +37,25 @@
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50" />
 <h4>🤖 AI Projects</h4>
-<p><strong>AI & ML Projects</strong><br><i>Exploring ML-based applications</i></p>
+<p><strong>AI Recommendation Systems</strong><br><i>Building ML-based applications</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" width="50" />
 <h4>⛓ Web3 Explorer</h4>
-<p><strong>Ethereum • Injective • Bittensor</strong><br><i>Learning decentralized technologies</i></p>
+<p><strong>Ethereum DApps</strong><br><i>Learning decentralized technologies</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/source-code.png" width="50" />
 <h4>💻 Programming</h4>
-<p><strong>C • Python • JavaScript • TypeScript</strong><br><i>Growing through projects</i></p>
+<p><strong>C • Python • TypeScript</strong><br><i>Growing through projects</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/medal2.png" width="50" />
 <h4>🏆 Certifications</h4>
-<p><strong>15+ Certifications</strong><br><i>AI, UX, Cloud, Blockchain & Development</i></p>
+<p><strong>15+ Certifications</strong><br><i>AI, UX, Blockchain & Development</i></p>
 </td>
 </tr>
 </table>
@@ -79,19 +79,17 @@
 
 - <strong>Sister Nivedita University</strong>
 - Computer Science & Engineering (AI & ML)
-- Currently in 3rd Year • 5th Semester
-- CGPA: 8.82
+- Currently in 2nd Year
 - Focused on AI, ML & Software Development
 
 <br>
 
 - <strong>Professional Certifications</strong>
 - Google AI Essentials ✅
-- Programming in C — University of Michigan ✅
+- Programming in C ✅
 - Neo4j Certified Professional ✅
-- Google UX Design ✅
-- Career Essentials in Generative AI — Microsoft & LinkedIn ✅
-- IBM AI ✅
+- Foundations of UX Design ✅
+- Career Essentials in Generative AI ✅
 - Certified Mantle Builder ✅
 
 </td>
@@ -101,18 +99,18 @@
 <h3>💼 Experience & Technical Journey</h3>
 
 - <strong>Artificial Intelligence Intern — Acmegrade</strong>
-- Built a Movie Recommendation System
-- Worked with Python, Pandas, NumPy & Scikit-learn
-- Developed the application using Streamlit
-- Applied content-based filtering and cosine similarity
+- Built AI-based applications
+- Developed Movie Recommendation System
+- Worked with Python & Streamlit
+- Applied Machine Learning concepts
 
 <br>
 
 - <strong>Technical Activities</strong>
-- SIH 2026 Team Lead — Future Forge 🏆
+- SIH Participant 🏆
 - Open Source Learner 🌟
 - Blockchain & Web3 Explorer ⛓
-- AI & ML Learner 🤖
+- AI & ML Enthusiast 🤖
 
 </td>
 
@@ -141,19 +139,19 @@
 <td width="33%" align="center">
 <h3>🎬 Movie Recommendation System</h3>
 <p><strong>Python • Streamlit • ML</strong><br>
-AI-based recommendation system using content-based filtering and cosine similarity.</p>
+AI-based recommendation system using content similarity techniques.</p>
 </td>
 
 <td width="33%" align="center">
 <h3>⛓ Crowdhub DApp</h3>
 <p><strong>Ethereum • TypeScript • Web3</strong><br>
-Blockchain-based crowdfunding platform exploring decentralized application development.</p>
+Blockchain-based crowdfunding platform with decentralized workflows.</p>
 </td>
 
 <td width="33%" align="center">
 <h3>🍰 BakeCake Website</h3>
 <p><strong>HTML • CSS</strong><br>
-Responsive bakery website focused on learning frontend fundamentals.</p>
+Responsive bakery website focused on frontend fundamentals.</p>
 </td>
 
 </tr>
@@ -259,7 +257,7 @@ Responsive bakery website focused on learning frontend fundamentals.</p>
 </div>
 
 <p align="center">
-🏆 SIH Participant • 🎯 SKEPSIS DSA Quest • 🤝 SAP Inside Track Volunteer <br>
+🏆 SIH Participant • 🎯 CodeFest Participant • 🤝 SAP Inside Track Volunteer <br>
 📚 Coding Ninjas Workshops • 🌐 GDG Kolkata Events • 💡 Continuous Learner
 </p>
 
@@ -278,7 +276,7 @@ Responsive bakery website focused on learning frontend fundamentals.</p>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:bishakhakarmakar517@gmail.com">
+<a href="mailto:bishakha.karmakar@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
