@@ -82,7 +82,7 @@
 - <strong>Sister Nivedita University</strong>
 - Computer Science & Engineering (AI & ML)
 - Currently in 3rd Year • 5th Semester
-- CGPA: 8.82
+- CGPA: 8.97
 - Building a foundation in AI, ML & Software Development
 
 <br>
