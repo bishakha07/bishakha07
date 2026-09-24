@@ -1,19 +1,19 @@
 <!-- Header Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFFF&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%20Learner%20%7C%20Creative%20Coder%20%7C%20Future%20Developer%20✨&descAlign=50&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,25:F06292,50:F8BBD9,75:FCE4EC,100:FFFFFF&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%20%26%20ML%20Learner%20%7C%20Project%20Builder%20%7C%20Emerging%20Tech%20Explorer%20✨&descAlign=50&descSize=18&descAlignY=55" />
 </p>
 
 <!-- Introduction -->
 <h2 align="center">Welcome to Bishakha's Tech Portfolio</h2>
 <p align="center">
 🧚🏻‍♀ <i>In a world of logic and light, I script spells in Python and dance with data.</i><br>
-⚙ <i>Crafting code with a hint of stardust ✨ and debugging bugs like a tech ninja 🥷.</i><br>
-🌙 <i>Dreaming by night, coding by day — welcome to my pastel-coded universe 🌸</i>
+⚙ <i>Exploring code, AI and technology one project at a time ✨.</i><br>
+🌙 <i>Learning by building, experimenting and growing step by step 🌸</i>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+Learner+%7C+Creative+Coder;Planting+seeds+of+code+at+SNU+🌱;Every+bug+is+a+learning+opportunity+🐛✨;Building+my+coding+foundation+step+by+step+💻;Welcome+to+my+learning+journey+🌌" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=D6336C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+👋+I'm+Bishakha+Karmakar;AI+%26+ML+Learner+%7C+Project+Builder;Learning+AI%2C+ML+%26+Software+Development+at+SNU+🌱;Exploring+Web3+%26+Emerging+Technologies+🔗;Building+Projects+with+AI-Assisted+Development+🤖;Learning+Step+by+Step%2C+One+Project+at+a+Time+💻" />
 </p>
 
 <!-- Profile Metrics -->
@@ -21,9 +21,9 @@
 <img src="https://komarev.com/ghpvc/?username=bishakha07&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/bishakha07?label=Followers&style=for-the-badge&color=ff69b4" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifications-15+-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hackathons-SIH%20%7C%20CodeFest-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Learning%20Journey-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifications-15%2B-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hackathons-SIH%202026-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects-10%2B-ff69b4?style=for-the-badge" />
 </p>
 
 <!-- Fun Facts Section -->
@@ -36,26 +36,26 @@
 <tr>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50" />
-<h4>🤖 AI Projects</h4>
-<p><strong>AI Recommendation Systems</strong><br><i>Building ML-based applications</i></p>
+<h4>🤖 AI & ML Learner</h4>
+<p><strong>AI & ML Projects</strong><br><i>Exploring ML-based applications</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" width="50" />
 <h4>⛓ Web3 Explorer</h4>
-<p><strong>Ethereum DApps</strong><br><i>Learning decentralized technologies</i></p>
+<p><strong>Ethereum • Injective • Bittensor</strong><br><i>Exploring decentralized technologies</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/source-code.png" width="50" />
-<h4>💻 Programming</h4>
-<p><strong>C • Python • TypeScript</strong><br><i>Growing through projects</i></p>
+<h4>💻 Project Builder</h4>
+<p><strong>C • Python • JavaScript • TypeScript</strong><br><i>Learning through hands-on projects</i></p>
 </td>
 
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/medal2.png" width="50" />
 <h4>🏆 Certifications</h4>
-<p><strong>15+ Certifications</strong><br><i>AI, UX, Blockchain & Development</i></p>
+<p><strong>15+ Certifications</strong><br><i>AI, Cloud, UX, Blockchain & Development</i></p>
 </td>
 </tr>
 </table>
@@ -79,17 +79,19 @@
 
 - <strong>Sister Nivedita University</strong>
 - Computer Science & Engineering (AI & ML)
-- Currently in 2nd Year
-- Focused on AI, ML & Software Development
+- Currently in 3rd Year • 5th Semester
+- CGPA: 8.82
+- Focused on AI, ML & Computer Science fundamentals
 
 <br>
 
-- <strong>Professional Certifications</strong>
+- <strong>Selected Certifications</strong>
 - Google AI Essentials ✅
-- Programming in C ✅
+- Programming in C — University of Michigan ✅
 - Neo4j Certified Professional ✅
-- Foundations of UX Design ✅
-- Career Essentials in Generative AI ✅
+- Google UX Design ✅
+- Career Essentials in Generative AI — Microsoft & LinkedIn ✅
+- IBM AI ✅
 - Certified Mantle Builder ✅
 
 </td>
@@ -99,18 +101,19 @@
 <h3>💼 Experience & Technical Journey</h3>
 
 - <strong>Artificial Intelligence Intern — Acmegrade</strong>
-- Built AI-based applications
-- Developed Movie Recommendation System
-- Worked with Python & Streamlit
-- Applied Machine Learning concepts
+- Developed a Movie Recommendation System
+- Used Python, Pandas, NumPy & Scikit-learn
+- Built the application with Streamlit
+- Applied content-based filtering and cosine similarity
 
 <br>
 
 - <strong>Technical Activities</strong>
-- SIH Participant 🏆
-- Open Source Learner 🌟
-- Blockchain & Web3 Explorer ⛓
-- AI & ML Enthusiast 🤖
+- SIH 2026 Team Lead — Future Forge 🏆
+- AI & ML Project-Based Learning 🤖
+- Bittensor & Injective Co-Learning Camps 🔗
+- Google Cloud Arcade — Diamond League 🌟
+- Web3 & Blockchain Exploration ⛓
 
 </td>
 
@@ -138,20 +141,20 @@
 
 <td width="33%" align="center">
 <h3>🎬 Movie Recommendation System</h3>
-<p><strong>Python • Streamlit • ML</strong><br>
-AI-based recommendation system using content similarity techniques.</p>
+<p><strong>Python • Pandas • Scikit-learn • Streamlit</strong><br>
+Content-based movie recommendation system using cosine similarity and machine learning concepts.</p>
 </td>
 
 <td width="33%" align="center">
-<h3>⛓ Crowdhub DApp</h3>
+<h3>⛓ CrowdHub DApp</h3>
 <p><strong>Ethereum • TypeScript • Web3</strong><br>
-Blockchain-based crowdfunding platform with decentralized workflows.</p>
+Decentralized crowdfunding application exploring blockchain and smart-contract based workflows.</p>
 </td>
 
 <td width="33%" align="center">
 <h3>🍰 BakeCake Website</h3>
 <p><strong>HTML • CSS</strong><br>
-Responsive bakery website focused on frontend fundamentals.</p>
+Frontend bakery website created while developing my web development fundamentals.</p>
 </td>
 
 </tr>
@@ -173,16 +176,17 @@ Responsive bakery website focused on frontend fundamentals.</p>
 <p>
 <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" />
 <img src="https://img.icons8.com/color/96/000000/python.png" width="60" />
+<img src="https://img.icons8.com/color/96/000000/javascript.png" width="60" />
 <img src="https://img.icons8.com/color/96/000000/typescript.png" width="60" />
 </p>
 
-<p><strong>C • Python • TypeScript</strong></p>
+<p><strong>C • Python • JavaScript • TypeScript</strong></p>
 
 </td>
 
 <td width="33%" align="center">
 
-<h3>🌐 Web & Blockchain</h3>
+<h3>🌐 Web & Emerging Tech</h3>
 
 <p>
 <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" />
@@ -190,7 +194,7 @@ Responsive bakery website focused on frontend fundamentals.</p>
 <img src="https://img.icons8.com/color/96/000000/ethereum.png" width="60" />
 </p>
 
-<p><strong>HTML • CSS • Ethereum</strong></p>
+<p><strong>HTML • CSS • React • Next.js • Ethereum</strong></p>
 
 </td>
 
@@ -204,7 +208,7 @@ Responsive bakery website focused on frontend fundamentals.</p>
 <img src="https://img.icons8.com/color/96/000000/git.png" width="60" />
 </p>
 
-<p><strong>Figma • Canva • GitHub</strong></p>
+<p><strong>Git • GitHub • VS Code • Figma • Canva</strong></p>
 
 </td>
 
@@ -215,7 +219,7 @@ Responsive bakery website focused on frontend fundamentals.</p>
 <div align="center">
 <h3>🌟 Current Skills</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,typescript,html,css,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,react,nextjs,git,github,vscode" />
 </p>
 </div>
 
@@ -229,22 +233,22 @@ Responsive bakery website focused on frontend fundamentals.</p>
 
 <td width="25%" align="center">
 <h4>🤖 AI & ML</h4>
-<p>Recommendation Systems<br>Machine Learning<br>Data Analysis</p>
+<p>Machine Learning<br>Recommendation Systems<br>Data Analysis<br>Generative AI Fundamentals</p>
 </td>
 
 <td width="25%" align="center">
-<h4>🌐 Frontend Development</h4>
-<p>Responsive Websites<br>UI Design<br>Web Fundamentals</p>
+<h4>🌐 Software Development</h4>
+<p>Frontend Development<br>Web Fundamentals<br>Python Development<br>Project Building</p>
 </td>
 
 <td width="25%" align="center">
-<h4>⛓ Blockchain</h4>
-<p>Ethereum<br>Smart Contracts<br>DApps</p>
+<h4>⛓ Emerging Technologies</h4>
+<p>Ethereum<br>Web3 Fundamentals<br>Injective<br>Bittensor</p>
 </td>
 
 <td width="25%" align="center">
-<h4>🚀 Open Source</h4>
-<p>GitHub Projects<br>Portfolio Building<br>Community Learning</p>
+<h4>📚 CS Fundamentals</h4>
+<p>DSA<br>OOP<br>DBMS<br>Operating Systems</p>
 </td>
 
 </tr>
@@ -257,8 +261,9 @@ Responsive bakery website focused on frontend fundamentals.</p>
 </div>
 
 <p align="center">
-🏆 SIH Participant • 🎯 CodeFest Participant • 🤝 SAP Inside Track Volunteer <br>
-📚 Coding Ninjas Workshops • 🌐 GDG Kolkata Events • 💡 Continuous Learner
+🏆 SIH 2026 • 🎯 SKEPSIS DSA Quest • 🤝 SAP Inside Track Kolkata <br>
+☁ Google Cloud Arcade • 🌐 GDG Kolkata • 🔗 HackQuest Co-Learning Camps <br>
+📚 Coding & Technology Workshops • 💡 Continuous Learning
 </p>
 
 <!-- Contact -->
@@ -276,7 +281,7 @@ Responsive bakery website focused on frontend fundamentals.</p>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:bishakha.karmakar@example.com">
+<a href="mailto:bishakhakarmakar517@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
